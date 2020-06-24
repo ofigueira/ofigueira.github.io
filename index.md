@@ -35,6 +35,8 @@ We will answer these questions leveraging a user study with offline social profi
 
 ## My Blog
 
+[My Blog](blog.html)
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
