@@ -35,7 +35,7 @@ We will answer these questions leveraging a user study with offline social profi
 
 ## My Blog
 
-<!-- [My Blog](blog.html) -->
+<!-- Visit this page to check out my [blog](blog.html) where I post weekly updates during my DREU experience. -->
 
 <div class="posts">
   {% for post in site.posts %}
