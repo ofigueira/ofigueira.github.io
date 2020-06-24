@@ -17,11 +17,9 @@ avatar: https://ofigueira.github.io/images/Figueira-Portrait.jpeg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  linkedin: https://www.linkedin.com/in/olivia-figueira/
   email: ofigueira@scu.edu 
-  facebook:
-  flickr:
-  rss: # just type anything here for a working RSS icon
+  rss: rss # just type anything here for a working RSS icon
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed
