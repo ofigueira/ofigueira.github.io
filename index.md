@@ -20,7 +20,7 @@ Dr. Khurana's research focuses on Cryptography and the foundations of Security, 
 
 ## About My Project
 
-Online social networks (OSNs) face a problem today involving fabricated user accounts. These accounts are becoming increasingly sophisticated and thus harder to detect by real human users. Fake accounts have sinced began using more complex generation algorithms for both text and image generation to fool other users into trusting them. However, there are aspects and inconsistencies in these profiles that may lead to users detecting fabricated users, namely semantic, temporal, and steretypical relationships.
+Online social networks (OSNs) face a problem today involving fabricated user accounts. These accounts are becoming increasingly sophisticated and thus harder to detect by real human users. Fake accounts have since begun using more complex generation algorithms for both text and image generation to fool other users into trusting them. However, there are aspects and inconsistencies in these profiles that may lead to users detecting fabricated users, namely semantic, temporal, and stereotypical relationships.
 
 In this project, we will investigate the following research questions:
 1. Can average online users detect inter-field semantic relationship inconsistencies and how do such inconsistencies affect users’ trust and behavior towards an encountered profile?
