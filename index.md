@@ -8,7 +8,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My name is Olivia Figueira and I am a senior Computer Science and Engineering major with minors in Mathematics and Economics at [Santa Clara University](https://www.scu.edu/) in Santa Clara, California, graduating in 2021. When it comes to research, I am interested in the fields of security and privacy, accessibility, artificial intelligence, and computing for social benefit. In Summer 2020, I am participating in the virtual CRA-WP DREU at the [University of Illinois at Urbana-Champaign](https://illinois.edu/).
+My name is Olivia Figueira and I am a senior Computer Science and Engineering major with minors in Mathematics and Economics at [Santa Clara University](https://www.scu.edu/) in Santa Clara, California, graduating in 2021. When it comes to research, I am interested in the fields of security and privacy, human-computer interaction, machine learning, and humanitarian computing. In Summer 2020, I am participating in the virtual CRA-WP DREU at the [University of Illinois at Urbana-Champaign](https://illinois.edu/).
 
 ## About My Mentors
 
