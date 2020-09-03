@@ -24,7 +24,7 @@ Fake online social network (OSN) profiles created using natural language and ima
 
 *Check back soon to access my Final Report on this research project.*
 
-<!-- [My Final Report](files/finalreport.pdf) -->
+[My Final Report](files/DREU_2020_Final_Report.pdf)
 
 ## My Blog
 
