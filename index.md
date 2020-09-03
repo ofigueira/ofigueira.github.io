@@ -22,7 +22,7 @@ Dr. Khurana's research focuses on Cryptography and the foundations of Security, 
 
 Fake online social network (OSN) profiles created using natural language and image generation models are becoming increasingly sophisticated and thus harder to detect by traditional methods. Current research focuses on improving the detection of intra-field inaccuracies and artifacts, meaning those that exist within a deep fake image or within generated text in isolation. However, personas and OSN profiles are built on a collection of multi-modal fields that must maintain both intra-field and inter-field consistency. This project aims to determine how intra-field and inter-field inconsistencies affect perceived trust by OSN users and how those inconsistencies compare with each other leveraging a user study with fake LinkedIn profiles created using generative text and image algorithms. At the time this report was written, we had not begun the user study, so the results are forthcoming.
 
-Read more about my work this summer in [my final report](files/DREU_2020_Final_Report.pdf).
+Read more about this research project in [my final report](files/DREU_2020_Final_Report.pdf).
 
 ## My Blog
 
